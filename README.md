@@ -6,7 +6,7 @@
 
 ---
 
-### Client Repo:
+### Client Repo: https://github.com/TanvirFahimBD/rush-food-client-side
 
 ---
 
